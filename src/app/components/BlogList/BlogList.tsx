@@ -27,6 +27,7 @@ const BlogList = () => {
 
   const handleCardClick = async (id: string) => {
     const data = await fetchBlogById(id);
+    console.log("data:",data)
     dispatch(setCurrentBlog(data));
   };
 
@@ -55,7 +56,7 @@ const BlogList = () => {
       {/* Blog List */}
       <div className="flex flex-col flex-wrap gap-4 mx-30">
         {filteredBlogs.slice(0, 5).map((blog: any, index : number) => (
-        <Link key={index} href={`/blog/${blog._id}`} onClick={() => handleCardClick(blog.id)}>
+        <Link key={index} href={`/blog/${blog._id}`} onClick={() => handleCardClick(blog._id)}>
           <BlogCard
             key={index}
             blog={{
