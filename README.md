@@ -12,6 +12,9 @@ Next.js: React framework for server-rendered applications.
 Redux Toolkit: For managing global state.
 Tailwind CSS: Utility-first CSS framework for styling.
 TypeScript: Superset of JavaScript with static typing.
+
+Link: https://g5-web-assessment-three.vercel.app/
+
 Getting Started
 Prerequisites
 Ensure you have the following installed:
@@ -23,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Ayenewtarekegn18/G5_web_assessment.git
 cd your-repository
 Install dependencies:
 
