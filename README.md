@@ -81,6 +81,8 @@ Feel free to customize the sections based on your project’s specific details a
 
 Blog List Page -:  ![Screenshot 2024-08-28 175052](https://github.com/user-attachments/assets/54eeb6eb-413a-4cd0-98bf-04cd3486bb9b)
 
+Blog List Page search feature -: ![Screenshot 2024-08-28 175109](https://github.com/user-attachments/assets/3a5e67ca-9b92-4e72-9274-d1dc3eb01db5)
+
 Blog Detail Page part-1 -: ![Screenshot 2024-08-28 181211](https://github.com/user-attachments/assets/39a36013-5d0f-4bfc-9941-b533bd6a663f)
 
 Blog Detail page Part-2 -:  ![Screenshot 2024-08-28 181549](https://github.com/user-attachments/assets/233bbe6a-860c-4272-92d6-03225b771c19)
